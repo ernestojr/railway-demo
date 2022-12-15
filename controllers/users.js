@@ -1,4 +1,4 @@
-import UserModel from '../models/user.js.js'
+import UserModel from '../models/user.js'
 
 class UserController {
   static create(data) {
